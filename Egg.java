@@ -3,6 +3,7 @@ import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.util.Random;
 import java.awt.*;//////////////////
+import java.bbbbbb////////////
 /**
  * ´ú±íµ°
  * @author Administrator
